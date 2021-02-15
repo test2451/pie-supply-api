@@ -1,7 +1,7 @@
 {
   "name": "supply-api",
   "version": "1.0.0",
-  "description": "Get the current supply of Cake",
+  "description": "Get the current supply of Pie",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
